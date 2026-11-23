@@ -4,5 +4,5 @@
 
 ## 说明
 
-- 仓库地址：https://github.com/SuperLiMao/test.git
+- 仓库地址：https://github.com/SuperLiMao/test02.git
 - 初始化时间：2026-11-24
